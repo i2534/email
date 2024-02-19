@@ -1,0 +1,9 @@
+{
+    "email": {
+        "imap": "imaphz.qiye.163.com:993",
+        "smtp": "smtphz.qiye.163.com:465",
+        "username": "a@b.c",
+        "password": "******"
+    },
+    "target": "/data/email/"
+}
